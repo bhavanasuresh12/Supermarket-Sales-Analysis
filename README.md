@@ -1,5 +1,4 @@
 # Supermarket-Sales-Analysis
-Here's a professional **README.md description** you can use for your GitHub repository:
 
 # 🛒 Supermarket Sales Analysis Dashboard (Power BI)
 
@@ -53,12 +52,10 @@ The dashboard helps compare branch performance, identify top-selling product cat
 
 ## 📸 Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="882" height="497" alt="Dashboard" src="https://github.com/user-attachments/assets/fe30a9e6-5451-46a5-bebf-e4dc862cfb62" />
+
 
 ## 🚀 Outcome
 
 This project demonstrates how Power BI can be used to transform retail sales data into actionable insights through interactive dashboards, enabling better business understanding and data-driven decision-making.
 
----
-
-⭐ If you found this project useful, feel free to star the repository.
