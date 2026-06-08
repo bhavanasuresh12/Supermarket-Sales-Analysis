@@ -18,13 +18,13 @@ The dashboard helps compare branch performance, identify top-selling product cat
 
 ## 📊 Dashboard Features
 
-* **Total Sales, Transactions, and Gross Income KPIs**
-* **Branch-wise and Product Line Sales Analysis**
-* **Average Customer Rating by Product Line**
-* **Monthly Sales Trend by Branch**
-* **Weekday vs Weekend Sales Distribution**
-* **Quantity Sold by Product Category**
-* Interactive **slicers** for Branch and Product Line filtering
+Total Sales, Transactions, and Gross Income KPIs
+Branch-wise and Product Line Sales Analysis
+Average Customer Rating by Product Line
+Monthly Sales Trend by Branch
+Weekday vs Weekend Sales Distribution
+Quantity Sold by Product Category
+Interactive slicers for Branch and Product Line filtering
 
 ## 🛠 Tools & Technologies
 
